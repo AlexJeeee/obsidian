@@ -1,6 +1,6 @@
 难点：
 
-1.  针对iOS侧滑无法禁止，加入一层hash路由，利用在url后pushHash #back 方法
+1.  针对iOS侧滑无法禁止，加入一层hash路由，利用在url后pushHash  (#back)  方法
 ```JavaScript
 const pushHash = (hash: string, fn: () => void): void => {
 
