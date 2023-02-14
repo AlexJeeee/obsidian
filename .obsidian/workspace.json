@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dcdea32184513825",
+        "id": "399aa0fdb8fe322b",
         "type": "tabs",
         "children": [
           {
-            "id": "5094b03290a9fcf2",
+            "id": "7cbb5fbf23a0b1c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,6 +148,8 @@
   },
   "active": "80d813b679010262",
   "lastOpenFiles": [
+    "2023-02-14.md",
+    "未命名.canvas",
     "stored-value.md"
   ]
 }
