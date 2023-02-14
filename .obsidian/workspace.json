@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frontEnd/节流 防抖.md",
+                "file": "frontEnd/节流(throttle) 防抖(debounce).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frontEnd/节流 防抖.md",
+                "file": "frontEnd/节流(throttle) 防抖(debounce).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frontEnd/节流 防抖.md",
+                "file": "frontEnd/节流(throttle) 防抖(debounce).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frontEnd/节流 防抖.md"
+                "file": "frontEnd/节流(throttle) 防抖(debounce).md"
               }
             }
           }
@@ -162,7 +162,7 @@
   "active": "bf4841c50145e1d1",
   "lastOpenFiles": [
     "project/stored-value.md",
-    "frontEnd/节流 防抖.md",
+    "frontEnd/节流(throttle) 防抖(debounce).md",
     "2023-02-14.md",
     "未命名.canvas"
   ]
