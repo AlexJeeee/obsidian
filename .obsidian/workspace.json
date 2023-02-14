@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stored-value.md",
+                "file": "project/stored-value.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf4841c50145e1d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frontEnd/节流 防抖.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stored-value.md",
+                "file": "frontEnd/节流 防抖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stored-value.md",
+                "file": "frontEnd/节流 防抖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stored-value.md"
+                "file": "frontEnd/节流 防抖.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "80d813b679010262",
+  "active": "bf4841c50145e1d1",
   "lastOpenFiles": [
+    "project/stored-value.md",
+    "frontEnd/节流 防抖.md",
     "2023-02-14.md",
-    "未命名.canvas",
-    "stored-value.md"
+    "未命名.canvas"
   ]
 }
