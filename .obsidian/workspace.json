@@ -44,16 +44,6 @@
             }
           },
           {
-            "id": "3a0eef940b1a5ea4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
-          },
-          {
             "id": "4335de1a6a0607f5",
             "type": "leaf",
             "state": {
@@ -71,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面经/平安.md",
+                "file": "project/stored-value.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面经/平安.md",
+                "file": "project/stored-value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面经/平安.md",
+                "file": "project/stored-value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面经/平安.md"
+                "file": "project/stored-value.md"
               }
             }
           }
@@ -207,8 +197,8 @@
   },
   "active": "368565bb8244275f",
   "lastOpenFiles": [
-    "面经/携程.md",
     "面经/平安.md",
+    "面经/携程.md",
     "面经",
     "frontEnd/节流(throttle) 防抖(debounce).md",
     "README.md",
