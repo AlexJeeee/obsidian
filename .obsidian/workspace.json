@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96e0f2e1d54bb9f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frontEnd/柯里化.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/stored-value.md",
+                "file": "frontEnd/柯里化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/stored-value.md",
+                "file": "frontEnd/柯里化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/stored-value.md"
+                "file": "frontEnd/柯里化.md"
               }
             }
           }
@@ -195,14 +207,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "368565bb8244275f",
+  "active": "96e0f2e1d54bb9f4",
   "lastOpenFiles": [
+    "project/stored-value.md",
+    "frontEnd/柯里化.md",
     "面经/平安.md",
     "面经/携程.md",
     "面经",
     "frontEnd/节流(throttle) 防抖(debounce).md",
     "README.md",
-    "project/stored-value.md",
     "节流 防抖.md",
     "2023-02-14.md",
     "未命名.canvas"
