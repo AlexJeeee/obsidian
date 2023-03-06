@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e99916fc2e4a8a41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "770b1b02b8e2b89d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "frontEnd/节流(throttle) 防抖(debounce).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9dd0a877daf2ab39",
             "type": "leaf",
             "state": {
@@ -73,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frontEnd/柯里化.md",
+                "file": "frontEnd/节流(throttle) 防抖(debounce).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frontEnd/柯里化.md",
+                "file": "frontEnd/节流(throttle) 防抖(debounce).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frontEnd/柯里化.md",
+                "file": "frontEnd/节流(throttle) 防抖(debounce).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frontEnd/柯里化.md"
+                "file": "frontEnd/节流(throttle) 防抖(debounce).md"
               }
             }
           }
@@ -209,8 +185,8 @@
   },
   "active": "96e0f2e1d54bb9f4",
   "lastOpenFiles": [
-    "project/stored-value.md",
     "frontEnd/柯里化.md",
+    "project/stored-value.md",
     "面经/平安.md",
     "面经/携程.md",
     "面经",
