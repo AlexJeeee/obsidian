@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e3c7256d981612d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,7 +193,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "96e0f2e1d54bb9f4",
+  "active": "2e3c7256d981612d",
   "lastOpenFiles": [
     "frontEnd/柯里化.md",
     "project/stored-value.md",
