@@ -56,12 +56,14 @@
             }
           },
           {
-            "id": "2e3c7256d981612d",
+            "id": "8ce618aafc3c8b01",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "frontEnd/跨域.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frontEnd/节流(throttle) 防抖(debounce).md",
+                "file": "frontEnd/跨域.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frontEnd/节流(throttle) 防抖(debounce).md",
+                "file": "frontEnd/跨域.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frontEnd/节流(throttle) 防抖(debounce).md"
+                "file": "frontEnd/跨域.md"
               }
             }
           }
@@ -193,14 +195,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2e3c7256d981612d",
+  "active": "8ce618aafc3c8b01",
   "lastOpenFiles": [
+    "frontEnd/节流(throttle) 防抖(debounce).md",
+    "frontEnd/跨域.md",
     "frontEnd/柯里化.md",
     "project/stored-value.md",
     "面经/平安.md",
     "面经/携程.md",
     "面经",
-    "frontEnd/节流(throttle) 防抖(debounce).md",
     "README.md",
     "节流 防抖.md",
     "2023-02-14.md",
