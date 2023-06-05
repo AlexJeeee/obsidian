@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "命理/二十四节气.md",
+                "file": "frontEnd/interface type.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "命理/二十四节气.md",
+                "file": "frontEnd/interface type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "命理/二十四节气.md",
+                "file": "frontEnd/interface type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "命理/二十四节气.md"
+                "file": "frontEnd/interface type.md"
               }
             }
           }
@@ -170,6 +170,7 @@
   "active": "75e15cff316ca9c8",
   "lastOpenFiles": [
     "命理/二十四节气.md",
+    "frontEnd/interface type.md",
     "命理",
     "面经/平安.md",
     "leetCode/旋转数组的最小数字.md",
