@@ -49,24 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "职业规划.md",
+                "file": "frontEnd/柯里化.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "74c865e962c715b9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "职业规划.md",
+                "file": "frontEnd/柯里化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "职业规划.md",
+                "file": "frontEnd/柯里化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "职业规划.md"
+                "file": "frontEnd/柯里化.md"
               }
             }
           }
@@ -201,21 +191,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "74c865e962c715b9",
+  "active": "0c5f26915d4408e5",
   "lastOpenFiles": [
+    "project/stored-value.md",
+    "leetCode/旋转数组的最小数字.md",
+    "leetCode/斐波那契数列.md",
+    "frontEnd/跨域.md",
+    "职业规划.md",
     "frontEnd/css绘制三角形.md",
     "frontEnd/flex.md",
-    "职业规划.md",
     "frontEnd/interface type.md",
     "面经/平安.md",
     "面经/携程.md",
-    "frontEnd/跨域.md",
-    "leetCode/旋转数组的最小数字.md",
-    "project/stored-value.md",
     "命理/事件记录.md",
     "命理/二十四节气.md",
     "命理",
-    "leetCode/斐波那契数列.md",
     "frontEnd/节流(throttle) 防抖(debounce).md",
     "Pasted image 20230314145819.png",
     "leetCode",
