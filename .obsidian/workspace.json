@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frontEnd/柯里化.md",
+                "file": "frontEnd/切换项目自动切换node版本.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frontEnd/柯里化.md",
+                "file": "frontEnd/切换项目自动切换node版本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frontEnd/柯里化.md",
+                "file": "frontEnd/切换项目自动切换node版本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frontEnd/柯里化.md"
+                "file": "frontEnd/切换项目自动切换node版本.md"
               }
             }
           }
@@ -193,6 +193,8 @@
   },
   "active": "0c5f26915d4408e5",
   "lastOpenFiles": [
+    "frontEnd/柯里化.md",
+    "frontEnd/切换项目自动切换node版本.md",
     "project/stored-value.md",
     "leetCode/旋转数组的最小数字.md",
     "leetCode/斐波那契数列.md",
@@ -209,7 +211,6 @@
     "frontEnd/节流(throttle) 防抖(debounce).md",
     "Pasted image 20230314145819.png",
     "leetCode",
-    "frontEnd/柯里化.md",
     "面经",
     "README.md",
     "节流 防抖.md",
