@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frontEnd/柯里化.md",
+                "file": "面经/携程.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frontEnd/柯里化.md",
+                "file": "面经/携程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frontEnd/柯里化.md",
+                "file": "面经/携程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frontEnd/柯里化.md"
+                "file": "面经/携程.md"
               }
             }
           }
@@ -193,8 +193,9 @@
   },
   "active": "0c5f26915d4408e5",
   "lastOpenFiles": [
-    "frontEnd/切换项目自动切换node版本.md",
+    "面经/平安.md",
     "frontEnd/柯里化.md",
+    "frontEnd/切换项目自动切换node版本.md",
     "project/stored-value.md",
     "leetCode/旋转数组的最小数字.md",
     "leetCode/斐波那契数列.md",
@@ -203,7 +204,6 @@
     "frontEnd/css绘制三角形.md",
     "frontEnd/flex.md",
     "frontEnd/interface type.md",
-    "面经/平安.md",
     "面经/携程.md",
     "命理/事件记录.md",
     "命理/二十四节气.md",
