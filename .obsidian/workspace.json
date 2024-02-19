@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frontEnd/npmrc.md",
+                "file": "frontEnd/css绘制三角形.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frontEnd/npmrc.md",
+                "file": "frontEnd/css绘制三角形.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frontEnd/npmrc.md",
+                "file": "frontEnd/css绘制三角形.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frontEnd/npmrc.md"
+                "file": "frontEnd/css绘制三角形.md"
               }
             }
           }
@@ -205,8 +205,9 @@
   },
   "active": "e5f3b6dabcf6fccc",
   "lastOpenFiles": [
-    "关于考勤时间的说明.md",
+    "frontEnd/切换项目自动切换node版本.md",
     "frontEnd/npmrc.md",
+    "关于考勤时间的说明.md",
     "README.md",
     "leetCode/旋转数组的最小数字.md",
     "project/stored-value.md",
@@ -214,7 +215,6 @@
     "面经/携程.md",
     "面经/平安.md",
     "frontEnd/柯里化.md",
-    "frontEnd/切换项目自动切换node版本.md",
     "leetCode/斐波那契数列.md",
     "职业规划.md",
     "frontEnd/css绘制三角形.md",
