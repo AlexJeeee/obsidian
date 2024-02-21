@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frontEnd/css绘制三角形.md",
+                "file": "frontEnd/flex.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frontEnd/css绘制三角形.md",
+                "file": "frontEnd/flex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frontEnd/css绘制三角形.md",
+                "file": "frontEnd/flex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frontEnd/css绘制三角形.md"
+                "file": "frontEnd/flex.md"
               }
             }
           }
@@ -205,21 +205,21 @@
   },
   "active": "e5f3b6dabcf6fccc",
   "lastOpenFiles": [
-    "frontEnd/切换项目自动切换node版本.md",
     "frontEnd/npmrc.md",
+    "frontEnd/interface type.md",
+    "frontEnd/跨域.md",
+    "frontEnd/柯里化.md",
+    "frontEnd/css绘制三角形.md",
+    "frontEnd/切换项目自动切换node版本.md",
     "关于考勤时间的说明.md",
     "README.md",
     "leetCode/旋转数组的最小数字.md",
     "project/stored-value.md",
-    "frontEnd/跨域.md",
     "面经/携程.md",
     "面经/平安.md",
-    "frontEnd/柯里化.md",
     "leetCode/斐波那契数列.md",
     "职业规划.md",
-    "frontEnd/css绘制三角形.md",
     "frontEnd/flex.md",
-    "frontEnd/interface type.md",
     "命理/事件记录.md",
     "命理/二十四节气.md",
     "命理",
