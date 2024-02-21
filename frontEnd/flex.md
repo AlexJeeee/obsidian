@@ -29,6 +29,3 @@ flex: revert;
 flex: revert-layer;
 flex: unset;
 ```
-
-搜索```npm pu
-```
