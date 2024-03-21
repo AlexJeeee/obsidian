@@ -76,9 +76,19 @@
                 "currentVersion": "1.5.8"
               }
             }
+          },
+          {
+            "id": "e6dfdfbd665e3d11",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -213,7 +223,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "003fac7cf1cd4389",
+  "active": "e6dfdfbd665e3d11",
   "lastOpenFiles": [
     "关于考勤时间的说明.md",
     "2024第一季度个人目标自检-季一钧.md",
