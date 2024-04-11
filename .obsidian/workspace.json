@@ -42,53 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0c5f26915d4408e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "frontEnd/跨域.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ffb988b2add40e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024第一季度个人目标自检-季一钧.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "003fac7cf1cd4389",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
-            "id": "e6dfdfbd665e3d11",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024第一季度个人目标自检-季一钧.md",
+                "file": "frontEnd/interface type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024第一季度个人目标自检-季一钧.md",
+                "file": "frontEnd/interface type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024第一季度个人目标自检-季一钧.md"
+                "file": "frontEnd/interface type.md"
               }
             }
           }
@@ -223,17 +179,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e6dfdfbd665e3d11",
+  "active": "5489ba0838b726f3",
   "lastOpenFiles": [
-    "关于考勤时间的说明.md",
-    "2024第一季度个人目标自检-季一钧.md",
-    "frontEnd/flex.md",
-    "frontEnd/npmrc.md",
-    "frontEnd/interface type.md",
     "frontEnd/跨域.md",
+    "2024第一季度个人目标自检-季一钧.md",
+    "frontEnd/切换项目自动切换node版本.md",
+    "frontEnd/npmrc.md",
+    "关于考勤时间的说明.md",
+    "frontEnd/flex.md",
+    "frontEnd/interface type.md",
     "frontEnd/柯里化.md",
     "frontEnd/css绘制三角形.md",
-    "frontEnd/切换项目自动切换node版本.md",
     "README.md",
     "leetCode/旋转数组的最小数字.md",
     "project/stored-value.md",
