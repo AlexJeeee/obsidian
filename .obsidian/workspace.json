@@ -47,9 +47,11 @@
             "id": "1e2712c8c7a8678d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "2024第一季度个人目标自检-季一钧.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frontEnd/interface type.md",
+                "file": "2024第一季度个人目标自检-季一钧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frontEnd/interface type.md",
+                "file": "2024第一季度个人目标自检-季一钧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frontEnd/interface type.md"
+                "file": "2024第一季度个人目标自检-季一钧.md"
               }
             }
           }
@@ -191,6 +193,10 @@
   },
   "active": "1e2712c8c7a8678d",
   "lastOpenFiles": [
+    "未命名.md",
+    "frontEnd/节流(throttle) 防抖(debounce).md",
+    "面经/携程.md",
+    "面经/平安.md",
     "frontEnd/跨域.md",
     "2024第一季度个人目标自检-季一钧.md",
     "frontEnd/切换项目自动切换node版本.md",
@@ -203,14 +209,11 @@
     "README.md",
     "leetCode/旋转数组的最小数字.md",
     "project/stored-value.md",
-    "面经/携程.md",
-    "面经/平安.md",
     "leetCode/斐波那契数列.md",
     "职业规划.md",
     "命理/事件记录.md",
     "命理/二十四节气.md",
     "命理",
-    "frontEnd/节流(throttle) 防抖(debounce).md",
     "Pasted image 20230314145819.png",
     "leetCode",
     "面经",
