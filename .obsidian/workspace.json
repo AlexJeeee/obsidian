@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frontEnd/切换项目自动切换node版本.md",
+                "file": "frontEnd/css绘制三角形.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "切换项目自动切换node版本"
+              "title": "css绘制三角形"
             }
           }
         ],
@@ -224,8 +224,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "80d813b679010262",
+  "active": "4da89e7fbe0fb38e",
   "lastOpenFiles": [
+    "frontEnd/跨域.md",
+    "命理/事件记录.md",
     "frontEnd/切换项目自动切换node版本.md",
     "命理/二十四节气.md",
     "面经/携程.md",
@@ -239,13 +241,11 @@
     "project/stored-value.md",
     "未命名.md",
     "面经/平安.md",
-    "frontEnd/跨域.md",
     "frontEnd/flex.md",
     "frontEnd/柯里化.md",
     "frontEnd/css绘制三角形.md",
     "leetCode/旋转数组的最小数字.md",
     "leetCode/斐波那契数列.md",
-    "命理/事件记录.md",
     "命理",
     "Pasted image 20230314145819.png",
     "leetCode",
